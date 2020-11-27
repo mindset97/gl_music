@@ -60,7 +60,7 @@
   <view class="topList">
     <NavHeader title="排行榜" nav="热歌风向标"></NavHeader>
     <!-- 内容区域 -->
-    <swiper class="topListSwiper" circular previous-margin="50rpx" next-margin="50rpx">
+   <swiper class="topListSwiper" circular previous-margin="50rpx" next-margin="50rpx">
      <!-- 第一屏 -->
       <swiper-item>
         <view class="swiperItem">
@@ -70,7 +70,7 @@
           <view class="musicItem">
             <image src="/static/images/01.jpg"></image>
             <text class="count">1</text>
-            <text class="musicName"></text>
+            <text class="musicName">哈哈哈哈啊哈</text>
           </view>
            </view>
        </swiper-item>

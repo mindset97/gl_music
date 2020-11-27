@@ -96,10 +96,9 @@
 /* 云音乐热歌榜 */
 .topList{
   padding:20rpx;
-
 }
 .topListSwiper{
-  height:400px;
+  height:450px;
 }
 .swiperItem{
   width:96%;
@@ -111,7 +110,7 @@
   font-size:30rpx;
   line-height:80rpx;
 }
-.musicItem .title{
+.musicItem{
   /* 目的：自己元素继承这个块元素 */
   display:flex;
   margin-bottom:20rpx;
